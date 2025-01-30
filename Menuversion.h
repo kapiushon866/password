@@ -1,3 +1,3 @@
 #pragma once
 
-inline constexpr const char* MENU_VERSION = "2.7";
+inline constexpr const char* MENU_VERSION = "2.3";
